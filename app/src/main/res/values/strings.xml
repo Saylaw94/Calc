@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calc+</string>
+    <string name="calculator">Calculator</string>
+    <string name="p">Plus</string>
+    <string name="d">divide</string>
+    <string name="m">Minus</string>
+    <string name="mu">Multiply</string>
+    <string name="son_kiriting">Son kiriting</string>
+</resources>
